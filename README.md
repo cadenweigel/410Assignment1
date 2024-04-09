@@ -1,2 +1,4 @@
 # 410Assignment1
- assignment 1
+
+Assets -> Scripts
+Jump.cs contains double jump code
